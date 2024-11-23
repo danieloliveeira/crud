@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import './Form.css';
 
 export function Form({ title, textButton }) {

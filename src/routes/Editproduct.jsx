@@ -4,7 +4,7 @@ import { Form } from '../components/Form';
 const Editproduct = () => {
     return (
         <div >
-            <Form title={'Criar produtos'} textButton={'Cadastrar Produtos'}/>
+            <Form title={'Editar produtos'} textButton={'Editar Produtos'}/>
         </div>
     );
 };
